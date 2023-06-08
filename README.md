@@ -40,7 +40,7 @@ py.show()
 
 ```
 ## Output
-![output](/output.png)
+![output](/1.png)
 </br>
 </br>
 </br>
